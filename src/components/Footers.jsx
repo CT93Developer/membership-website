@@ -25,19 +25,19 @@ const Footers = () => {
                 <div>
                     <h6 className='font-medium text-gray-400'>Solutions</h6>
                     <ul>
-                        <li className='py-2 text-sm'>test1</li>
-                        <li className='py-2 text-sm'>test2</li>
-                        <li className='py-2 text-sm'>test3</li>
-                        <li className='py-2 text-sm'>test4</li>
+                        <li className='py-2 text-sm'>Projects</li>
+                        <li className='py-2 text-sm'>Apps</li>
+                        <li className='py-2 text-sm'>Websites</li>
+                        <li className='py-2 text-sm'>Github</li>
                     </ul>
                 </div>
                 <div>
                     <h6 className='font-medium text-gray-400'>Support</h6>
                     <ul>
-                        <li className='py-2 text-sm'>test1</li>
-                        <li className='py-2 text-sm'>test2</li>
-                        <li className='py-2 text-sm'>test3</li>
-                        <li className='py-2 text-sm'>test4</li>
+                        <li className='py-2 text-sm'>Request</li>
+                        <li className='py-2 text-sm'>Q&A</li>
+                        <li className='py-2 text-sm'>Solutions</li>
+                        <li className='py-2 text-sm'>Contact US</li>
                     </ul>
                 </div>
                 <div>

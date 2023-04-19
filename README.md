@@ -1,12 +1,17 @@
 This is a Fake React Project template to for a membership website
 
-This is created using ReactJS, HTML, and Tailwind CSS
+Common functionalities are :
+-User can see all the products on the website
+-User can see the price of membership on website
+-User can sign up for news letter on website (sign up functionality no enabled yet)
 
-April 12, 2023
-- Version 2
-    - Changed codes inside Cards and Frameworks to a general variable and datamap to make the code more clean
-    - Add Swiper function into Frameworks to allow users to be able to swipe through the frameworks information
+Built With:
+- ReactJS
+- HTML
+- Tailwind CSS
+- Swiper
 
-April 11, 2023
-- Version 1 of this website uploaded.
-- Further implementations of will continue.
+Key Concepts:
+- React hook
+
+
